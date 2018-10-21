@@ -1,6 +1,0 @@
-const API_CONST = {
-
-    N_USER_LOGIN: 'N_USER_LOGIN',
-    N_USER_REGISTRATION: 'N_USER_REGISTRATION',
-}
-export default API_CONST
